@@ -6,3 +6,4 @@ src-git passwall https://github.com/xiaorouji/openwrt-passwall;main
 src-git passwallpackages https://github.com/xiaorouji/openwrt-passwall-packages;main
 # src-git istore https://github.com/linkease/istore;main
 # src-git kiddin9 https://github.com/lgfyxx1/openwrt-packages-kiddin9.git;master
+src-git passwallpackage openclash https://github.com/vernesong/OpenClash.git;master
