@@ -6,4 +6,4 @@ src-git-full xiaoroujipasswall https://github.com/xiaorouji/openwrt-passwall.git
 src-git-full xiaoroujipasswallpackages https://github.com/xiaorouji/openwrt-passwall-packages.git;main
 src-git-full vernesongopenclash https://github.com/vernesong/OpenClash.git;master
 src-git-full aliyundrives https://github.com/messense/aliyundrive-webdav.git;main
-src-git-full alistardiy https://github.com/sbwml/luci-app-alist.git;main
+src-git-full alistardiy https://github.com/lgfyxx1/luci-app-alist.git;main
